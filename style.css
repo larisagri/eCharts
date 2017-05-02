@@ -1,0 +1,30 @@
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.table table{
+  text-align: center;
+  margin: 0   auto;
+  border: none;
+}
+
+th {
+  background-color: #ADD8E6;
+}
+
+td:hover{
+  background-color: #ADD8E6;
+}
+
+.charts{
+  width: 100%;
+}
+
+#starWars,
+#reseauxSociaux  {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
